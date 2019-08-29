@@ -8,13 +8,13 @@ Thank you for your interest in our work.
 
 In this github deposit, you will find a detailed description of gene expression classifiers of used data sets included in the study 'Bertucci et al., NPJ Breast Cancer 2019' within the files :
 
-- '*breast_cancer_classifiers.docx*' : Description of used classifiers and their associated source.
+- '*Breast_cancer_classifiers.docx*' : Description of used classifiers and their associated source.
 
-- '*breast_cancer_classifiers.r*' : R code of custom functions.
+- '*Breast_cancer_classifiers.r*' : R code of custom functions.
 
-- '*breast_cancer_classifiers.Rda*' : R object including all custom R functions and associated data need for classifications.
+- '*Breast_cancer_classifiers.Rda*' : R object including all custom R functions and associated data need for classifications.
 
-- '*breast_cancer_classifications.csv*' : CSV table of all samples with their clinical & molecular variables detailed.
+- '*Breast_cancer_classifications.csv*' : CSV table of all samples with their clinical & molecular variables detailed.
 
 If you have any questions, we will be glad to help you.
 
