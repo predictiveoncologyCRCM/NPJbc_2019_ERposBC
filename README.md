@@ -20,8 +20,15 @@ If you have any questions, we will be glad to help you.
 
 Sincerely,
 
-François BERTUCCI (<bertuccif@ipc.unicancer.fr>)
+François BERTUCCI
 
-Daniel BIRNBAUM (<daniel.birnbaum@inserm.fr>)
+Daniel BIRNBAUM
 
-Pascal FINETTI	(<finettip@ipc.unicancer.fr>)
+Pascal FINETTI
+
+[Predictive Oncology department](http://crcm.marseille.inserm.fr/en/researchteams/francois-bertucci-daniel-birnbaum/)
+
+![CRCM](http://crcm.marseille.inserm.fr/fileadmin/templates/crcm/img/logo-crcm.png)
+![IPC](http://www.institutpaolicalmettes.fr/fileadmin/templates/ipc/img/logo-ipc-big.png)
+![Inserm](https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Inserm.svg/320px-Inserm.svg.png)
+![AMU](https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Aix-Marseille_Universit%C3%A9_%28Logo%29.svg/320px-Aix-Marseille_Universit%C3%A9_%28Logo%29.svg.png)
