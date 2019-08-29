@@ -26,9 +26,5 @@ Daniel BIRNBAUM
 
 Pascal FINETTI
 
-[Predictive Oncology department](http://crcm.marseille.inserm.fr/en/researchteams/francois-bertucci-daniel-birnbaum/)
-
-![CRCM](http://crcm.marseille.inserm.fr/fileadmin/templates/crcm/img/logo-crcm.png)
-![IPC](http://www.institutpaolicalmettes.fr/fileadmin/templates/ipc/img/logo-ipc-big.png)
-![Inserm](https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Inserm.svg/320px-Inserm.svg.png)
-![AMU](https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Aix-Marseille_Universit%C3%A9_%28Logo%29.svg/320px-Aix-Marseille_Universit%C3%A9_%28Logo%29.svg.png)
+### [CRCM, Predictive Oncology department](http://crcm.marseille.inserm.fr/en/researchteams/francois-bertucci-daniel-birnbaum/)
+<a href="http://crcm.marseille.inserm.fr"><img src="http://crcm.marseille.inserm.fr/fileadmin/templates/crcm/img/logo-crcm.png" height="75"></a><a href="http://www.institutpaolicalmettes.fr/"><img src="http://www.institutpaolicalmettes.fr/fileadmin/templates/ipc/img/logo-ipc-big.png" height="75"></a><a href="https://www.inserm.fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Inserm.svg/320px-Inserm.svg.png" height="75"></a><a href="https://www.univ-amu.fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Aix-Marseille_Universit%C3%A9_%28Logo%29.svg/320px-Aix-Marseille_Universit%C3%A9_%28Logo%29.svg.png" height="75"></a><a href="http://www.cnrs.fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Centre_national_de_la_recherche_scientifique.svg/240px-Centre_national_de_la_recherche_scientifique.svg.png" height="75"></a>
