@@ -14,8 +14,6 @@ In this github deposit, you will find a detailed description of gene expression 
 
 - '*Breast_cancer_classifiers.Rda*' : R object including all custom R functions and associated data need for classifications.
 
-- '*Breast_cancer_classifications.csv*' : CSV table of all samples with their clinical & molecular variables detailed.
-
 If you have any questions, we will be glad to help you.
 
 Sincerely,
